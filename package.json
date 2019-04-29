@@ -1,7 +1,7 @@
 {
   "name": "sdn1w-website",
   "version": "0.1.0",
-  "homepage": "https://github.com/kennythepark/sdn1w-website",
+  "homepage": "https://kennythepark.github.io/sdn1w-website",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
