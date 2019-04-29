@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kennythepark/sdn1w-website/static/css/main.584f321a.chunk.css",
-    "main.js": "/kennythepark/sdn1w-website/static/js/main.78b27484.chunk.js",
-    "main.js.map": "/kennythepark/sdn1w-website/static/js/main.78b27484.chunk.js.map",
-    "runtime~main.js": "/kennythepark/sdn1w-website/static/js/runtime~main.33b7c48b.js",
-    "runtime~main.js.map": "/kennythepark/sdn1w-website/static/js/runtime~main.33b7c48b.js.map",
-    "static/js/2.b41502e9.chunk.js": "/kennythepark/sdn1w-website/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/kennythepark/sdn1w-website/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/kennythepark/sdn1w-website/index.html",
-    "precache-manifest.1c2866d214d1da1599d1608c783a93f1.js": "/kennythepark/sdn1w-website/precache-manifest.1c2866d214d1da1599d1608c783a93f1.js",
-    "service-worker.js": "/kennythepark/sdn1w-website/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/kennythepark/sdn1w-website/static/css/main.584f321a.chunk.css.map",
-    "static/media/logo.svg": "/kennythepark/sdn1w-website/static/media/logo.5d5d9eef.svg"
+    "main.css": "/sdn1w-website/static/css/main.584f321a.chunk.css",
+    "main.js": "/sdn1w-website/static/js/main.b40b5f10.chunk.js",
+    "main.js.map": "/sdn1w-website/static/js/main.b40b5f10.chunk.js.map",
+    "runtime~main.js": "/sdn1w-website/static/js/runtime~main.6412f19b.js",
+    "runtime~main.js.map": "/sdn1w-website/static/js/runtime~main.6412f19b.js.map",
+    "static/js/2.b41502e9.chunk.js": "/sdn1w-website/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/sdn1w-website/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/sdn1w-website/index.html",
+    "precache-manifest.bb1f97abd472e70c8deca6b051250bda.js": "/sdn1w-website/precache-manifest.bb1f97abd472e70c8deca6b051250bda.js",
+    "service-worker.js": "/sdn1w-website/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/sdn1w-website/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/sdn1w-website/static/media/logo.5d5d9eef.svg"
   }
 }
